@@ -1,47 +1,54 @@
 <div align="center">
-<h2> <img height="25" src="icons/astronaut.png"> Nawel Berrichi | <img height="20" src="icons/laptop.png"> Web developer | <img height="15" src="icons/france.png"> Paris </h2>
+<h2> <img height="25" src="icons/astronaut.png"> Nawel Berrichi &nbsp;|&nbsp; <img height="20" src="icons/laptop.png"> Web developer &nbsp;|&nbsp; <img height="15" src="icons/france.png"> Paris </h2>
 </div>
-&nbsp;
-&nbsp;
-&nbsp;
+<br>
+<br>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/nawelberrichi/"><img height="30" src="icons/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/nawel.brrch/"><img height="30" src="icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nawelberrichi/"><img height="30" src="icons/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/nawel.brrch/"><img height="30" src="icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/nawel_brrch"><img height="30" src="icons/twitter.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
+ <br>
 
-### Languages
+- Learning React.js, TypeScript & AWS certification <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
-### Tools
+- _with Javascript, Typescript, Node.js and 69 others._ <img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
 
-### 2021
+- Space addict <img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+- Like to party when i'm not in lock down <img src="https://cultofthepartyparrot.com/parrots/hd/beerparrot.gif" width="30" height="30"/>
 
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div>
+- Huge fan of Harry Potter & Star Wars <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
+
+- FanGirl of [Cult of the Party Parrot](https://cultofthepartyparrot.com) of course <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
+
+<br>
+
+<p align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/wave1parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave2parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave3parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave4parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave5parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave6parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave7parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave8parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/wave9parrot.gif" width="30" height="30"/>
+</p>
+<br>
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=NawelBrrch&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+<br>
+
+## ⚡ Languages & Tools ...
+
+<br>
+<p align="center" >
+<img height="30" src="languages/html.svg">&nbsp;&nbsp;<img height="30" src="languages/css3.svg">&nbsp;&nbsp;<img height="30" src="languages/sass.svg">&nbsp;&nbsp;<img height="30" src="languages/js.svg">&nbsp;&nbsp;<img height="30" src="languages/vue.svg">&nbsp;&nbsp;<img height="30" src="languages/python.svg">&nbsp;&nbsp;<img height="30" src="languages/npm.svg">&nbsp;&nbsp;<img height="30" src="languages/bash.svg">&nbsp;&nbsp;<img height="30" src="languages/visualstudio_code.svg">&nbsp;&nbsp;<img height="30" src="languages/aws.svg">&nbsp;&nbsp;<img height="30" src="languages/pc.svg">&nbsp;&nbsp;<img height="30" src="languages/mac.svg">
+</p>
