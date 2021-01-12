@@ -19,7 +19,7 @@
 
 - Like to party when i'm not in lock down <img src="https://cultofthepartyparrot.com/parrots/hd/beerparrot.gif" width="30" height="30"/>
 
-- Huge fan of Harry Potter & Star Wars <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
+- Huge fan of Harry Potter, The Office & Star Wars <img src="https://cultofthepartyparrot.com/parrots/hd/sithparrot.gif" width="30" height="30"/> <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="30" height="30"/>
 
 - FanGirl of [Cult of the Party Parrot](https://cultofthepartyparrot.com) of course <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="30" height="30"/>
 
