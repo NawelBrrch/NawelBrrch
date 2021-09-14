@@ -50,5 +50,5 @@
 
 <br>
 <p align="center" >
-<img height="30" src="languages/html.svg">&nbsp;&nbsp;<img height="30" src="languages/css3.svg">&nbsp;&nbsp;<img height="30" src="languages/sass.svg">&nbsp;&nbsp;<img height="30" src="languages/js.svg">&nbsp;&nbsp;<img height="30" src="languages/vue.svg">&nbsp;&nbsp;<img height="30" src="languages/python.svg">&nbsp;&nbsp;<img height="30" src="languages/npm.svg">&nbsp;&nbsp;<img height="30" src="languages/bash.svg">&nbsp;&nbsp;<img height="30" src="languages/visualstudio_code.svg">&nbsp;&nbsp;<img height="30" src="languages/aws.svg">&nbsp;&nbsp;<img height="30" src="languages/pc.svg">&nbsp;&nbsp;<img height="30" src="languages/mac.svg">
+<img height="30" src="languages/html.svg">&nbsp;&nbsp;<img height="30" src="languages/css3.svg">&nbsp;&nbsp;<img height="30" src="languages/sass.svg">&nbsp;&nbsp;<img height="30" src="languages/js.svg">&nbsp;&nbsp;<img height="30" src="languages/vue.svg">&nbsp;&nbsp;<img height="30" src="languages/react.svg">&nbsp;&nbsp;<img height="30" src="languages/python.svg">&nbsp;&nbsp;<img height="30" src="languages/npm.svg">&nbsp;&nbsp;<img height="30" src="languages/bash.svg">&nbsp;&nbsp;<img height="30" src="languages/visualstudio_code.svg">&nbsp;&nbsp;<img height="30" src="languages/aws.svg">&nbsp;&nbsp;<img height="30" src="languages/pc.svg">&nbsp;&nbsp;<img height="30" src="languages/mac.svg">
 </p>
