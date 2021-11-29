@@ -13,7 +13,7 @@
 
 - Learning React.js, TypeScript & AWS certification <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
 
-- _with Javascript, Typescript, Node.js and 69 others._ <img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
+- _with Docker, Kubernetes, Python and 69 others._ <img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="30" height="30"/>
 
 - Space addict <img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="30" height="30"/>
 
